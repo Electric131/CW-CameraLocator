@@ -1,0 +1,10 @@
+{
+    "name": "CameraLocator",
+    "author": "Electric131",
+    "website_url": "https://github.com/Electric131/CW-CameraLocator",
+    "version_number": "1.0.0",
+    "description": "Locate your lost cameras.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
